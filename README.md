@@ -1,1 +1,1 @@
-New development will only be happening on Codeberg: https://codeberg.org/OffsetMonkey538/
+Most of my things have been moved over to my own Forgejo instance: https://git.offsetmonkey538.top
